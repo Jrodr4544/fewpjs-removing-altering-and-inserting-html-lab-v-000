@@ -4,6 +4,6 @@ main.remove()
 
 const newHeader = document.createElement('h1')
 newHeader.id = 'victory';
-newHeader.innerHtml = 'is the champion';
+newHeader.innerHtml = 'Jrodr4544 is the champion';
 // document.body.appendChild()
 // getElementById();
