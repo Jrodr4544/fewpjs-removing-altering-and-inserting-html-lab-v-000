@@ -2,6 +2,6 @@
 let main = document.getElementById('main');
 main.remove()
 
-const newHeader = document.createElement('h1#victory')
+const newHeader = document.createElement('h1')
 // document.body.appendChild()
 // getElementById();
