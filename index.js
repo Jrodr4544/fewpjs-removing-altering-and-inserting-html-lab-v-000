@@ -2,6 +2,6 @@
 let main = document.getElementById('main');
 main.remove()
 
-let newHeader = document.createElement
-let newHeader = document.body.appendChild()
+let newHeader = document.createElement('')
+// document.body.appendChild()
 // getElementById();
